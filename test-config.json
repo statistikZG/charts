@@ -1,0 +1,56 @@
+{
+  "traces": [
+    {
+      "x": "jahr",
+      "y": {
+        "selectionAttribute": "kennzahl",
+        "selectionValue": "Auswanderung (international)",
+        "valueAttribute": "anzahl",
+        "valueOperation": "negative"
+      },
+      "name": "Auswanderung (international)",
+      "type": "bar"
+    },
+    {
+      "x": "jahr",
+      "y": {
+        "selectionAttribute": "kennzahl",
+        "selectionValue": "Wegzug (interkantonal)",
+        "valueAttribute": "anzahl",
+        "valueOperation": "negative"
+      },
+      "name": "Wegzug (interkantonal)",
+      "type": "bar"
+    },
+    {
+      "x": "jahr",
+      "y": {
+        "selectionAttribute": "kennzahl",
+        "selectionValue": "Einwanderung (international)",
+        "valueAttribute": "anzahl"
+      },
+      "name": "Einwanderung (international)",
+      "type": "bar"
+    },
+    {
+      "x": "jahr",
+      "y": {
+        "selectionAttribute": "kennzahl",
+        "selectionValue": "Zuzug (interkantonal)",
+        "valueAttribute": "anzahl"
+      },
+      "name": "Zuzug (interkantonal)",
+      "type": "bar"
+    },
+    {
+      "x": "jahr",
+      "name": "Wanderungssaldo",
+      "y": {
+        "selectionAttribute": "kennzahl",
+        "selectionValue": "Wanderungssaldo",
+        "valueAttribute": "anzahl"
+      },
+      "type": "scatter"
+    }
+  ]
+}
