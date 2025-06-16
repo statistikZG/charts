@@ -51,13 +51,7 @@
         "valueAttribute": "anzahl"
       },
       "type": "scatter",
-      "mode": "lines+markers",
-      "marker": {
-        "color": "rgba(75,0,130,0.8)",
-        "line": {
-          "color": "rgba(75,0,130,1)"
-        }
-      }
+      "mode": "lines+markers"
     }
   ]
 }
