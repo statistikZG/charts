@@ -50,7 +50,8 @@
         "selectionValue": "Wanderungssaldo",
         "valueAttribute": "anzahl"
       },
-      "type": "scatter"
+      "type": "scatter",
+      "mode": "lines+markers"
     }
   ]
 }
