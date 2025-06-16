@@ -51,7 +51,13 @@
         "valueAttribute": "anzahl"
       },
       "type": "scatter",
-      "mode": "lines+markers"
+      "mode": "lines+markers",
+      "marker": {
+                    "color": "var(--dxp-primitive-color-error-600)",
+                    "line": {
+                        "color": "var(--dxp-primitive-color-error-800)"
+                    }
+                }
     }
   ]
 }
