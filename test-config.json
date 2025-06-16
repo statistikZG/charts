@@ -51,7 +51,7 @@
         "valueAttribute": "anzahl"
       },
       "type": "scatter",
-      "mode": "lines+markers",
+      "mode": "lines+markers"
     }
   ]
 }
